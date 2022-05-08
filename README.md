@@ -17,11 +17,12 @@ Q: I cant join my server!?
 A: It is probably on a higher version, but a simple fix is that you can add the plugin "ViaBackwards" to your server.
 
 
-Q: I cant play by myself? A: The singleplayer is still a work and progress
+Q: I cant play by myself? 
+A: The singleplayer is still a work and progress
 
 Q: There is nothing to do!? :(
 
-A: A server you can join is...![Screenshot 2022-05-08 12 27 27 PM](https://user-images.githubusercontent.com/105166959/167308554-14cda6cb-e1f3-431c-b095-6bda845fda40.png)
+A:   A server you can join is...![Screenshot 2022-05-08 12 27 27 PM](https://user-images.githubusercontent.com/105166959/167308554-14cda6cb-e1f3-431c-b095-6bda845fda40.png)
 
 
 Thats all!
